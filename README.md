@@ -36,7 +36,7 @@ A: You need to install .NET 6.0 runtime to run Thor, .NET 6.0 SDK and .NET Core 
 
 ## How to download?
 Hreidmar gets built on every commit by GitHub Actions. \
-Releases are available [here](https://nightly.link/Samsung-Loki/Thor/workflows/build/main).
+Releases are available [here](https://nightly.link/Samsung-Loki/Thor/workflows/build/main)..
 
 ## Credits
 [TheAirBlow](https://github.com/theairblow) for Thor
